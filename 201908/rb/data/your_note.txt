@@ -153,6 +153,8 @@ JSONで書き出す
 
 ファイルを一行ずつ読み込む
 
+日程をガントチャート上に展開
+3D表示する　待ち合わせ予定を確認
 
 日程：2019/08/30　docker計画　基本設計
 
@@ -169,3 +171,5 @@ puts json_str
 https://paiza.hatenablog.com/entry/docker_intro
 
 https://paiza.hatenablog.com/entry/infra_terms
+
+[special code]
