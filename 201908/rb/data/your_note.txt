@@ -9,6 +9,8 @@ $グローバル変数
 グローバル変数はどこからでも参照できて
 更新できてしまう
 
+ここにデータを投入するとgoogleカレンダーと連動する
+
 日程：識別子　JFORCELABO0x0394573873QQ
 日程：2021/12/23 RubyOnRailsYey!! we provided 80 million　Cores RUBIC-J Processors and FUGE RAM
 日程：2019/08/31　JIS X3017 ©RUBIC-J　(るびっくじぇい)日本用言語処理シリーズ for IDC
