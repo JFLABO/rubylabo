@@ -10,7 +10,17 @@ $グローバル変数
 更新できてしまう
 
 ここにデータを投入するとgoogleカレンダーと連動する
+非表示フラグ設定
+もうすぐ迫ってくる順に並べる
+重要度順に並べる
 
+過去の記録　メモリー　記念日
+
+予定　未来日
+
+マシンの強化　快適に　仕事が捗る構成に
+
+どんどん良くなるうまく行く仕掛け
 
 日程：識別子　JFORCELABO0x0394573873QQ
 日程：2021/12/23 RubyOnRailsYey!! we provided 80 million　Cores RUBIC-J Processors and FUGE RAM
@@ -30,6 +40,41 @@ $グローバル変数
 こんにちは
 
 調整中です
+
+ありがとう
+
+Ruby強化
+
+日程：2019/08/31 03:00 docker計画
+　データベース
+　　OS　Version
+　　Webサーバー
+　　アプリケーションサーバ
+　　認定
+　　権威機関と交渉
+　　Rails
+　　　　ActiveRecord
+　　　　ActiveMail
+
+　メールサーバー　受信
+
+GAS
+
+OSマイグレーション計画
+
+MAGI　SYSTEM更新
+
+特異メソッド
+
+Fiber
+Proc
+
+予約語の数
+
+ancestors
+rescue
+
+ensure 
 
 認証システム
 判定はケルベロスインスタンスがマップを持っていて即座に判定
@@ -57,12 +102,12 @@ jsonオブジェクトに含まれているか見る
 　インスタンス化したオブジェクトでメモリに常駐して
 　　true false回答をできるだけ早く行う
 　　PlayARole!!greetings!!
-
+  
 みはり
 
 違法行為
-
 不正行為
+ GotToJails!!
 
 保護
 
