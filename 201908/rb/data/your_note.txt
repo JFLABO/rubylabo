@@ -139,6 +139,8 @@ jsonオブジェクトに含まれているか見る
 
 明日の予定
 
+バージョンの確認
+
 表示する
 
 配列に取り込む
@@ -155,8 +157,11 @@ JSONの見栄えを良くする
 
 日程：2019/08/30　docker計画　基本設計
 
+railsでAPIを創る　設計
+　仕様：mongodb
+
+
 require 'json'
- 
 hash = { "Ocean" => { "Squid" => 10, "Octopus" =>8 }}
 json_str = JSON.pretty_generate(hash)
 puts json_str
