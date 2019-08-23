@@ -153,16 +153,19 @@ JSONで書き出す
 
 ファイルを一行ずつ読み込む
 
-JSONの見栄えを良くする
 
 日程：2019/08/30　docker計画　基本設計
 
 railsでAPIを創る　設計
 　仕様：mongodb
 
-
+JSONの見栄えを良くする
 require 'json'
 hash = { "Ocean" => { "Squid" => 10, "Octopus" =>8 }}
 json_str = JSON.pretty_generate(hash)
 puts json_str
 
+2019
+https://paiza.hatenablog.com/entry/docker_intro
+
+https://paiza.hatenablog.com/entry/infra_terms
