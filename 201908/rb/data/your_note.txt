@@ -153,3 +153,11 @@ JSONで書き出す
 
 JSONの見栄えを良くする
 
+日程：2019/08/30　docker計画　基本設計
+
+require 'json'
+ 
+hash = { "Ocean" => { "Squid" => 10, "Octopus" =>8 }}
+json_str = JSON.pretty_generate(hash)
+puts json_str
+
